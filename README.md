@@ -67,7 +67,7 @@ For any inquiries or feedback regarding this project, please reach out:
 | :----------------- | :--------------------------------------- |
 | Angeline     | 👩‍💻 [angelb9967](https://github.com/angelb9967) |
 
-Project Repository: [https://github.com/your-username/Merc-Airline-Booking-CMD.git](https://github.com/your-username/Merc-Airline-Booking-CMD.git)
+Project Repository: [https://github.com/angelb9967/Merc-Airline-Booking-CMD.git](https://github.com/angelb9967/Merc-Airline-Booking-CMD.git)
 
 ## 🖼️ App Preview
 
