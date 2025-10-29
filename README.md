@@ -71,7 +71,7 @@ Project Repository: [https://github.com/angelb9967/Merc-Airline-Booking-CMD.git]
 
 ## 🖼️ App Preview
 
-Get a quick look at Nurad Admin Mobile in action!
+Get a quick look at Merc Airline Booking in action!
 
 <p align="center">
   <img width="1100" height="672" alt="image" src="https://github.com/user-attachments/assets/4f564439-903f-4de6-8614-ae98fe30b075" />
