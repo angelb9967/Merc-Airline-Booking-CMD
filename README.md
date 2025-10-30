@@ -26,8 +26,7 @@ Explore the core functionalities of MERC:
 MERC is constructed upon the following core technologies:
 
 *   **C++:** The primary programming language used for developing the entire console-based application logic.
-*   **Standard C++ Libraries:** Utilizes standard libraries for input/output operations, string manipulation, and other core functionalities.
-*   **`conio.h` and `windows.h`:** Employed for console-specific functions, especially for handling input and output characteristics on Windows systems.
+*   **Windows Console API:** Utilized via **`windows.h` and `conio.h`:** for handling console-specific operations and input/output on Windows systems.
 
 ## 🚀 Getting Started
 
@@ -42,7 +41,7 @@ These instructions detail the process of setting up and running the MERC Console
 
 1.  **Clone the Repository:**
     ```bash
-    git clone https://github.com/your-username/Merc-Airline-Booking-CMD.git
+    git clone https://github.com/angelb9967/Merc-Airline-Booking-CMD.git
     ```
 2.  **Open Project in Your IDE:**
     *   Launch your preferred C++ IDE (e.g., Code::Blocks, Visual Studio).
