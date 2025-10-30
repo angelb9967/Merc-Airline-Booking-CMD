@@ -19,7 +19,6 @@ Explore the core functionalities of MERC:
 *   **Flight Options Display:** Presents users with a selection of pre-defined flight options.
 *   **Booking Process:** Guides users through a step-by-step booking process, including flight selection and passenger details.
 *   **Text-Based UI with ASCII Art:** Provides a custom and interactive user interface entirely within the console, utilizing ASCII visuals for an enhanced experience.
-*   **Conditional Logic (Switches) & Loops:** Demonstrates essential programming constructs for flow control and repetitive tasks.
 
 ## 🛠️ Technologies Utilized
 
