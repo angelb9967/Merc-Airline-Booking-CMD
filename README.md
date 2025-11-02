@@ -8,11 +8,7 @@
 
 MERC is a console-based airline booking system developed in C++. 🚀🎫 
 
-It serves as a project demonstrating fundamental programming concepts such as conditionals (switches), loops, and user input handling within a command-line environment. 
-
-The system features a custom text-based interface, enhanced with ANSI-style console art (colored ASCII visuals using foreground and background colors) to provide an engaging and simulated booking experience.
-
-This project was developed early in my programming journey, focusing primarily on `switch` statements and `loops`.
+I created this project in Grade 11 as part of a programming course requirement, showcasing my early experience with C++ and exploring programming fundamentals such as conditional logic, loops, and input validation.
 
 ## 🌟 Key Features
 
