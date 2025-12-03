@@ -2,7 +2,17 @@
   <img width="1085" height="214" alt="507184539-4f564439-903f-4de6-8614-ae98fe30b075_1_-removebg-preview" src="https://github.com/user-attachments/assets/d18304be-dbab-4fb3-a0c4-a5dc47dff30d" />
 </div>
 
-# ✈️ MERC: Console-Based Airline Booking System
+<br>
+<p align="center">
+  <a href="https://github.com/angelb9967/Merc-Airline-Booking-CMD/issues/new">
+    <img src="https://img.shields.io/badge/Report%20a%20Bug-red?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://github.com/angelb9967/Merc-Airline-Booking-CMD/issues/new">
+    <img src="https://img.shields.io/badge/Request%20Feature-blue?style=for-the-badge&logo=github" />
+  </a>
+</p>
+
+# MERC: Console-Based Airline Booking System
 
 ## ✨ Project Overview
 
@@ -86,3 +96,5 @@ Get a quick look at Merc Airline Booking in action!
 **Note:**
 This program was originally developed for Windows 7 using `conio.h` and `windows.h`.
 It runs on Windows 10 and 11, but console colors and layout may appear slightly different due to modern console behavior.
+
+<img src="https://img.shields.io/badge/Developed%20with%20%E2%9D%A4-angelb9967-red?style=for-the-badge" />
