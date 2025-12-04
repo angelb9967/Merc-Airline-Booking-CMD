@@ -4,12 +4,7 @@
 
 <br>
 <p align="center">
-  <a href="https://github.com/angelb9967/Merc-Airline-Booking-CMD/issues/new">
-    <img src="https://img.shields.io/badge/Report%20a%20Bug-red?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://github.com/angelb9967/Merc-Airline-Booking-CMD/issues/new">
-    <img src="https://img.shields.io/badge/Request%20Feature-blue?style=for-the-badge&logo=github" />
-  </a>
+  <a href="https://github.com/angelb9967/Merc-Airline-Booking-CMD/issues/new"><img src="https://img.shields.io/badge/Report%20a%20Bug-red?style=for-the-badge&logo=github" /></a><span>&nbsp;</span><a href="https://github.com/angelb9967/Merc-Airline-Booking-CMD/issues/new"><img src="https://img.shields.io/badge/Request%20Feature-blue?style=for-the-badge&logo=github" /></a>
 </p>
 
 # MERC: Console-Based Airline Booking System
